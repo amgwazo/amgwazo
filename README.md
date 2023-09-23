@@ -13,7 +13,7 @@ The crossover between design and programming has always been of interest to me, 
 
 <div>
   <h4>🏆  Codewars Profile Stats </h4>
-   ![Codewars](https://github.r2v.ch/codewars?user=nkaunga&stroke=%23BB432C)
+   <img src="![Codewars](https://github.r2v.ch/codewars?user=nkaunga&stroke=%23BB432C)" />
 </div>
 
 <div>
