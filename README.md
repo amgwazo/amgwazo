@@ -12,8 +12,8 @@ The crossover between design and programming has always been of interest to me, 
 ![Visitor Count](https://profile-counter.glitch.me/amgwazo/count.svg)
 
 <div>
-  <h4>🏆  Codewars Profile Badges </h4>
-   <img href="tps://www.codewars.com/users/nkaunga/badges/large" />
+  <h4>🏆  Codewars Profile Stats </h4>
+   ![Codewars](https://github.r2v.ch/codewars?user=nkaunga&stroke=%23BB432C)
 </div>
 
 <div>
