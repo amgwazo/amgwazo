@@ -13,9 +13,9 @@ The crossover between design and programming has always been of interest to me, 
 
 <div>
   <h4>🏆  Codewars Profile Stats </h4>
-  <p align="center" >
+  <p align="left" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=nkaunga" />
+      <img src="https://github.r2v.ch/codewars?user=amgwazo" />
     </a>
 </p>
 </div>
