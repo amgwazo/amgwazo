@@ -15,13 +15,9 @@ The crossover between design and programming has always been of interest to me, 
   <h4>🏆  Codewars Profile Stats </h4>
   <p align="left" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=amgwazo" />
+      <img src="https://github.r2v.ch/codewars?user=nkaunga&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" />
     </a>
 </p>
-</div>
-<div>  
-  ![Codewars](https://github.r2v.ch/codewars?user=amgwazo&stroke=%23BB432C)
-  </div>
 </div>
 
 <div>
