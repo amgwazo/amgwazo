@@ -6,7 +6,14 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-amgwazo-yellow)](https://stackoverflow.com/users/3687251/amgwazo-)
 
 ## I'm a Full Stack Web Developer.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+
+I’m a full-stack web developer who enjoys bridging the gap between thoughtful design and reliable engineering. I’ve collaborated with talented teams on high-profile web projects, building scalable, user-focused digital experiences from concept through deployment.
+
+My experience spans backend development with Node.js, Python, and Go; modern frontend development with React, Angular, HTML5, CSS3, JavaScript, responsive design, and UX principles; and cloud infrastructure across AWS, GCP, and Azure.
+
+I also integrate AI into my day-to-day development workflow to improve research, planning, coding, debugging, documentation, and automation. I’m comfortable using tools such as OpenAI Codex and Claude as practical development partners, while applying sound engineering judgment to validate outputs and deliver maintainable solutions.
+
+**Core skills:**: Node.js · Python · Go · React · Angular · JavaScript · HTML/CSS · Responsive UI/UX · Mobile App Development · MongoDB · MySQL · SQL Server · Cassandra · Supabase · AWS · GCP · Azure · Vercel · Docker · Kubernetes · CI/CD · AI-assisted development
 
 
 ![Visitor Count](https://profile-counter.glitch.me/amgwazo/count.svg)
