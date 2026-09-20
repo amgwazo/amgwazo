@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-amgwazo-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-amgwazo-yellow)](https://stackoverflow.com/users/3687251/amgwazo-)
 
-## I'm a Full Stack Web Developer.
+## Full Stack Web Developer.
 
 I’m a full-stack web developer who enjoys bridging the gap between thoughtful design and reliable engineering. I’ve collaborated with talented teams on high-profile web projects, building scalable, user-focused digital experiences from concept through deployment.
 
